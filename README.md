@@ -1,16 +1,116 @@
-## Hi there 👋
+# Jorge Ladrón de Guevara
 
-<!--
-**JorgeLadronDeGuevara/JorgeLadronDeGuevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I build modern web and desktop applications focused on performance, scalability, and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer from Panama with experience building production-ready web and desktop applications.
+
+My primary focus is developing modern, responsive, and scalable software using technologies such as Next.js, React, TypeScript, Node.js, Electron, Firebase, and PostgreSQL.
+
+I enjoy transforming ideas into high-quality digital products, paying close attention to clean architecture, performance, security, and user experience.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- Firebase
+- Prisma ORM
+
+### Databases
+- PostgreSQL
+- SQLite
+- Firebase Firestore
+
+### Desktop
+- Electron
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- Cloudinary
+
+---
+
+## 💼 Commercial Projects
+
+### Ari's Nails
+
+Luxury website developed for a professional nail studio.
+
+**Highlights**
+- Premium UI/UX
+- Responsive Design
+- Dynamic Gallery
+- Firebase Integration
+- Multi-language Support
+
+**Repository**
+Private (Commercial Project)
+
+---
+
+### School Enrollment System
+
+Desktop application built for educational institutions.
+
+**Highlights**
+
+- Student Management
+- Payment Management
+- Reports (PDF & Excel)
+- SQLite Database
+- Audit Log
+- Electron Desktop Application
+
+**Repository**
+
+Private (Commercial Project)
+
+---
+
+### Youth Forum Website
+
+Official website developed for a youth organization.
+
+**Highlights**
+
+- Responsive Design
+- Modern UI
+- Firebase Integration
+- Optimized Performance
+
+**Repository**
+
+Private
+
+---
+
+## 🌱 Currently Working On
+
+- SmartTour Panamá
+- Modern Admin Dashboard
+- Full Stack Applications
+- UI/UX Improvements
+
+---
+
+## 📫 Contact
+
+- LinkedIn: *(add your profile)*
+- Email: jorgemorales3082qgmail.com
